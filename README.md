@@ -1,5 +1,5 @@
 # Tugas Besar PBD CRUD Node.js MERN-Movie-APP
-Dibangun menggunakan MongoDB-Express-React.js-Node.js, JWT, dan API themoviedb.org.
+Dibangun menggunakan Atlas:MongoDB-Express-React.js-Node.js, JWT, dan API themoviedb.org.
 
 ## Oleh kelompok 5 :
 1. Tangguh Tri Prasetyo (21120117130082)
