@@ -8,6 +8,14 @@ Dibangun menggunakan MongoDB-Express-React.js-Node.js, JWT, dan API themoviedb.o
 4. Daud Dimas Prasetyo (21120116130076)
 5. Hasyim Dahlan Attaufiqi (21120116120013)
 
+## Instalasi :
+1. Buka project dengan Vscode atau sejenisnya
+2. Buka terminal pada Vscode, kemudian masukkan perintah npm install
+3. pindah direktori ke folder client dengan memasukkan perintah cd client pada terminal
+4. Masukkan perintah npm install
+5. Kembali ke folder root project dengan perintah cd ..
+6. Jalankan aplikasi dengan perintah (sudo) npm run dev
+
 ## SCREENSHOT
 ![Alt text](/pbd-1.png?raw=true "Tugas PBD")
 ![Alt text](/pbd-2.png?raw=true "Tugas PBD")
