@@ -6,7 +6,7 @@ import Comments from './Sections/Comments'
 import LikeDislikes from './Sections/LikeDislikes';
 import { API_URL, API_KEY, IMAGE_BASE_URL, IMAGE_SIZE } from '../../Config'
 import GridCards from '../../commons/GridCards';
-import MainImage from '../LandingPage/Sections/MainImage';
+import MainImage from '../../views/LandingPage/Sections/MainImage';
 import MovieInfo from './Sections/MovieInfo';
 import Favorite from './Sections/Favorite';
 function MovieDetailPage(props) {

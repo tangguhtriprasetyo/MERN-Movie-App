@@ -1,1 +1,1 @@
-# MERN-Movie-App
+# react-tmdb-app
